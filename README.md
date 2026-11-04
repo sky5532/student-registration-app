@@ -1,5 +1,6 @@
 # Student Registration App
-
+   **Live demo:** https://sky5532.github.io/student-registration-app/
+   
 A React app for registering students and managing their courses.
 
 ## Features
